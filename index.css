@@ -1,0 +1,14 @@
+.titulo{
+    background-color: coral;
+    color: aliceblue;
+    padding: 10px;
+
+}
+.bloco2{
+    font-family: 'Dancing Script', cursive;
+}
+.bloco4 img{
+    height: 300px;
+    border: 3px solid black;
+}
+
